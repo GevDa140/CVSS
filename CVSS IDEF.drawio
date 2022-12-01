@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2022-12-01T10:14:11.211Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="U7GT-tZ0BKGAUUuIuFt0" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-01T11:13:31.389Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="0hVmWCLd8_vDBp23m6Ot" version="20.6.0" type="github" pages="2">
   <diagram id="UPsKvsZW6ZB44q9W5nDS" name="Страница 1">
     <mxGraphModel dx="2249" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="dIxgZ7Lg5NKT2PRfQF9l-1" value="Расчёт оценки критичности уязвимости по методологии CVSS v3.1" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="dIxgZ7Lg5NKT2PRfQF9l-1" value="Расчёт базовой оценки критичности уязвимости по методологии CVSS v3.1" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="280" y="200" width="240" height="160" as="geometry" />
         </mxCell>
         <mxCell id="dIxgZ7Lg5NKT2PRfQF9l-2" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="dIxgZ7Lg5NKT2PRfQF9l-1" edge="1">
@@ -444,6 +444,14 @@
         <mxCell id="EnKM5lxazUut5QGVH7Wx-50" value="Базовая оценка критичности уязвимости" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1520" y="1480" width="110" height="30" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="1UO9V7tvZ4nB_jrqx7Pz" name="Страница 2">
+    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
