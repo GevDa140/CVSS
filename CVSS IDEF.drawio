@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-12-05T14:34:33.766Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="fN3VLa6k-m59bj8aop0X" version="20.6.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-12-13T11:32:04.222Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="OritOs-lLgGUsOpkS5VD" version="20.6.2" type="github" pages="2">
   <diagram id="UPsKvsZW6ZB44q9W5nDS" name="Страница 1">
-    <mxGraphModel dx="2249" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1920" dy="609" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -448,135 +448,212 @@
     </mxGraphModel>
   </diagram>
   <diagram id="1UO9V7tvZ4nB_jrqx7Pz" name="Страница 2">
-    <mxGraphModel dx="813" dy="454" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="VcP_52gR09t_h1Mb2gBg-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VcP_52gR09t_h1Mb2gBg-1" target="VcP_52gR09t_h1Mb2gBg-2">
+        <mxCell id="VcP_52gR09t_h1Mb2gBg-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="VcP_52gR09t_h1Mb2gBg-1" target="VcP_52gR09t_h1Mb2gBg-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VcP_52gR09t_h1Mb2gBg-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VcP_52gR09t_h1Mb2gBg-1" target="VcP_52gR09t_h1Mb2gBg-3">
+        <mxCell id="VcP_52gR09t_h1Mb2gBg-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="VcP_52gR09t_h1Mb2gBg-1" target="VcP_52gR09t_h1Mb2gBg-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VcP_52gR09t_h1Mb2gBg-1" value="Эксплуатация&lt;br&gt;уязвимости&lt;br&gt;происходит&lt;br&gt;с использованием&lt;br&gt;сети?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="VcP_52gR09t_h1Mb2gBg-1" value="Эксплуатация&lt;br&gt;уязвимости&lt;br&gt;происходит&lt;br&gt;с использованием&lt;br&gt;сети?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="80" y="120" width="150" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="VcP_52gR09t_h1Mb2gBg-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="VcP_52gR09t_h1Mb2gBg-2" target="VcP_52gR09t_h1Mb2gBg-4">
+        <mxCell id="VcP_52gR09t_h1Mb2gBg-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="VcP_52gR09t_h1Mb2gBg-2" target="VcP_52gR09t_h1Mb2gBg-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VcP_52gR09t_h1Mb2gBg-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="VcP_52gR09t_h1Mb2gBg-2" target="VcP_52gR09t_h1Mb2gBg-5">
+        <mxCell id="VcP_52gR09t_h1Mb2gBg-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="VcP_52gR09t_h1Mb2gBg-2" target="VcP_52gR09t_h1Mb2gBg-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VcP_52gR09t_h1Mb2gBg-2" value="Уязвимость может эксплуатироваться только из смежной сети?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="VcP_52gR09t_h1Mb2gBg-2" value="Уязвимость может эксплуатироваться только из смежной сети?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="280" y="20" width="150" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="VcP_52gR09t_h1Mb2gBg-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="VcP_52gR09t_h1Mb2gBg-3" target="VcP_52gR09t_h1Mb2gBg-12">
+        <mxCell id="VcP_52gR09t_h1Mb2gBg-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="VcP_52gR09t_h1Mb2gBg-3" target="VcP_52gR09t_h1Mb2gBg-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VcP_52gR09t_h1Mb2gBg-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="VcP_52gR09t_h1Mb2gBg-3" target="VcP_52gR09t_h1Mb2gBg-13">
+        <mxCell id="VcP_52gR09t_h1Mb2gBg-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="VcP_52gR09t_h1Mb2gBg-3" target="VcP_52gR09t_h1Mb2gBg-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VcP_52gR09t_h1Mb2gBg-3" value="Требуется ли злоумышленнику физический доступ к объекту?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="VcP_52gR09t_h1Mb2gBg-3" value="Требуется ли злоумышленнику физический доступ к объекту?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="280" y="215" width="150" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="VcP_52gR09t_h1Mb2gBg-4" value="Network (N)&lt;br&gt;Уязвимость можно эксплуатировать из сети Интернет" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="VcP_52gR09t_h1Mb2gBg-4" value="Network (N)&lt;br&gt;Уязвимость можно эксплуатировать из сети Интернет" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="480" y="10" width="190" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="VcP_52gR09t_h1Mb2gBg-5" value="Adjacent (A)&lt;br&gt;уязвимость можно использовать в ограниченной физической или логической сети" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="VcP_52gR09t_h1Mb2gBg-5" value="Adjacent (A)&lt;br&gt;уязвимость можно использовать в ограниченной физической или логической сети" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="480" y="100" width="190" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="VcP_52gR09t_h1Mb2gBg-10" value="Нет" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="VcP_52gR09t_h1Mb2gBg-10" value="Нет" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="430" y="20" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="VcP_52gR09t_h1Mb2gBg-11" value="Нет" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="VcP_52gR09t_h1Mb2gBg-11" value="Нет" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="240" y="280" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="VcP_52gR09t_h1Mb2gBg-12" value="Local (L)&lt;br&gt;Атака совершается через уязвимость локального приложения, или атакующий может войти в систему локально" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="VcP_52gR09t_h1Mb2gBg-12" value="Local (L)&lt;br&gt;Атака совершается через уязвимость локального приложения, или атакующий может войти в систему локально" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="480" y="200" width="190" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="VcP_52gR09t_h1Mb2gBg-13" value="Physical (P)&lt;br&gt;Атака требует физического доступа к уязвимому компоненту" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="VcP_52gR09t_h1Mb2gBg-13" value="Physical (P)&lt;br&gt;Атака требует физического доступа к уязвимому компоненту" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="480" y="300" width="190" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="VcP_52gR09t_h1Mb2gBg-17" value="Нет" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="VcP_52gR09t_h1Mb2gBg-17" value="Нет" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="430" y="210" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="VcP_52gR09t_h1Mb2gBg-18" value="Да" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="VcP_52gR09t_h1Mb2gBg-18" value="Да" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="240" y="60" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="VcP_52gR09t_h1Mb2gBg-19" value="Да" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="VcP_52gR09t_h1Mb2gBg-19" value="Да" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="430" y="130" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="VcP_52gR09t_h1Mb2gBg-20" value="Да" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="VcP_52gR09t_h1Mb2gBg-20" value="Да" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="430" y="330" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="VcP_52gR09t_h1Mb2gBg-21" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="VcP_52gR09t_h1Mb2gBg-21" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="710" y="290" as="sourcePoint" />
             <mxPoint x="710" y="70" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VcP_52gR09t_h1Mb2gBg-22" value="Базовый показатель &lt;br&gt;увеличивается тем больше,&lt;br&gt;чем дальше (логически и физически)&lt;br&gt;атакующий может находиться от цели" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="VcP_52gR09t_h1Mb2gBg-22" value="Базовый показатель &lt;br&gt;увеличивается тем больше,&lt;br&gt;чем дальше (логически и физически)&lt;br&gt;атакующий может находиться от цели" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="710" y="140" width="240" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="VcP_52gR09t_h1Mb2gBg-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="VcP_52gR09t_h1Mb2gBg-33" target="VcP_52gR09t_h1Mb2gBg-34">
+        <mxCell id="VcP_52gR09t_h1Mb2gBg-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="VcP_52gR09t_h1Mb2gBg-33" target="VcP_52gR09t_h1Mb2gBg-34" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VcP_52gR09t_h1Mb2gBg-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="VcP_52gR09t_h1Mb2gBg-33" target="VcP_52gR09t_h1Mb2gBg-35">
+        <mxCell id="VcP_52gR09t_h1Mb2gBg-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="VcP_52gR09t_h1Mb2gBg-33" target="VcP_52gR09t_h1Mb2gBg-35" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VcP_52gR09t_h1Mb2gBg-33" value="Может ли&lt;br&gt;злоумышленник эксплуатировать уязвимость&lt;br&gt;как угодно?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="VcP_52gR09t_h1Mb2gBg-33" value="Может ли&lt;br&gt;злоумышленник эксплуатировать уязвимость&lt;br&gt;как угодно?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="80" y="515" width="150" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="VcP_52gR09t_h1Mb2gBg-34" value="Low (L)&lt;br&gt;Злоумышленник может эксплуатировать уязвимость когда угодно и при любых обстоятельствах" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="VcP_52gR09t_h1Mb2gBg-34" value="Low (L)&lt;br&gt;Злоумышленник может эксплуатировать уязвимость когда угодно и при любых обстоятельствах" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="280" y="500" width="190" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="VcP_52gR09t_h1Mb2gBg-35" value="High (H)&lt;br&gt;Успешность атаки зависит от неподконтрольных злоумышленнику обстоятельств или условий" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="VcP_52gR09t_h1Mb2gBg-35" value="High (H)&lt;br&gt;Успешность атаки зависит от неподконтрольных злоумышленнику обстоятельств или условий" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="280" y="600" width="190" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="VcP_52gR09t_h1Mb2gBg-36" value="Нет" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="VcP_52gR09t_h1Mb2gBg-36" value="Нет" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="230" y="510" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="VcP_52gR09t_h1Mb2gBg-37" value="Да" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="VcP_52gR09t_h1Mb2gBg-37" value="Да" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="230" y="630" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="VcP_52gR09t_h1Mb2gBg-39" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="VcP_52gR09t_h1Mb2gBg-39" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="510" y="665" as="sourcePoint" />
             <mxPoint x="510" y="510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VcP_52gR09t_h1Mb2gBg-40" value="Базовый показатель&lt;br&gt;выше, если злоумышленнику&lt;br&gt;ничего не препятствует" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="VcP_52gR09t_h1Mb2gBg-40" value="Базовый показатель&lt;br&gt;выше, если злоумышленнику&lt;br&gt;ничего не препятствует" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="515" y="550" width="190" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VcP_52gR09t_h1Mb2gBg-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="VcP_52gR09t_h1Mb2gBg-43" target="VcP_52gR09t_h1Mb2gBg-44">
+        <mxCell id="VcP_52gR09t_h1Mb2gBg-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="VcP_52gR09t_h1Mb2gBg-43" target="VcP_52gR09t_h1Mb2gBg-44" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VcP_52gR09t_h1Mb2gBg-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="VcP_52gR09t_h1Mb2gBg-43" target="VcP_52gR09t_h1Mb2gBg-45">
+        <mxCell id="VcP_52gR09t_h1Mb2gBg-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="VcP_52gR09t_h1Mb2gBg-43" target="VcP_52gR09t_h1Mb2gBg-45" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VcP_52gR09t_h1Mb2gBg-43" value="Требуется ли злоумышленнику от другого пользователя выполнение какого-либо действия?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="VcP_52gR09t_h1Mb2gBg-43" value="Требуется ли злоумышленнику от другого пользователя выполнение какого-либо действия?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="80" y="745" width="150" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="VcP_52gR09t_h1Mb2gBg-44" value="None (N)&lt;br&gt;Атака может быть осуществлена без какого-либо взаимодействия с пользователем" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="VcP_52gR09t_h1Mb2gBg-44" value="None (N)&lt;br&gt;Атака может быть осуществлена без какого-либо взаимодействия с пользователем" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="280" y="730" width="190" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="VcP_52gR09t_h1Mb2gBg-45" value="Required (R)&lt;br&gt;Для успешной атаки требуется взаимодействие с пользователем" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="VcP_52gR09t_h1Mb2gBg-45" value="Required (R)&lt;br&gt;Для успешной атаки требуется взаимодействие с пользователем" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="280" y="830" width="190" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="VcP_52gR09t_h1Mb2gBg-46" value="Нет" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="VcP_52gR09t_h1Mb2gBg-46" value="Нет" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="230" y="740" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="VcP_52gR09t_h1Mb2gBg-47" value="Да" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="VcP_52gR09t_h1Mb2gBg-47" value="Да" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="230" y="860" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="VcP_52gR09t_h1Mb2gBg-48" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="VcP_52gR09t_h1Mb2gBg-48" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="510" y="895" as="sourcePoint" />
             <mxPoint x="510" y="740" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VcP_52gR09t_h1Mb2gBg-49" value="Базовый показатель&lt;br&gt;выше, если взаимодействие&lt;br&gt;с пользователем не требуется" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="VcP_52gR09t_h1Mb2gBg-49" value="Базовый показатель&lt;br&gt;выше, если взаимодействие&lt;br&gt;с пользователем не требуется" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="515" y="790" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cgP6Gqg2oOxtNv6yNMmN-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" source="cgP6Gqg2oOxtNv6yNMmN-3" target="cgP6Gqg2oOxtNv6yNMmN-4" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cgP6Gqg2oOxtNv6yNMmN-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" source="cgP6Gqg2oOxtNv6yNMmN-3" target="cgP6Gqg2oOxtNv6yNMmN-5" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cgP6Gqg2oOxtNv6yNMmN-3" value="Требуются ли права администратора?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="515" width="150" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="cgP6Gqg2oOxtNv6yNMmN-4" value="Low (L)&lt;br&gt;Атака может быть реализована на уровне пользовательских привилегий" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1220" y="500" width="190" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="cgP6Gqg2oOxtNv6yNMmN-5" value="High (H)&lt;br&gt;Атака может быть реализована только на уровне привилегий администратора или системы" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1220" y="600" width="190" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="cgP6Gqg2oOxtNv6yNMmN-6" value="Нет" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="510" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cgP6Gqg2oOxtNv6yNMmN-7" value="Да" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="630" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cgP6Gqg2oOxtNv6yNMmN-8" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1450" y="665" as="sourcePoint" />
+            <mxPoint x="1450" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cgP6Gqg2oOxtNv6yNMmN-9" value="Базовый показатель&lt;br&gt;выше, если авторизация&lt;br&gt;не требуется" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1479" y="505" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cgP6Gqg2oOxtNv6yNMmN-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="cgP6Gqg2oOxtNv6yNMmN-19" target="cgP6Gqg2oOxtNv6yNMmN-20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="990" y="500" />
+              <mxPoint x="990" y="435" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cgP6Gqg2oOxtNv6yNMmN-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="cgP6Gqg2oOxtNv6yNMmN-19" target="cgP6Gqg2oOxtNv6yNMmN-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cgP6Gqg2oOxtNv6yNMmN-19" value="Должен&lt;br&gt;ли атакующий быть авторизован на уязвимом компоненте до &lt;br&gt;начала атаки?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="810" y="430" width="150" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="cgP6Gqg2oOxtNv6yNMmN-20" value="None (N)&lt;br&gt;Атака может быть реализована без авторизации" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1220" y="400" width="190" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="YstkmqXnSUYKRpRuCBe6-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" source="YstkmqXnSUYKRpRuCBe6-3" target="YstkmqXnSUYKRpRuCBe6-4" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YstkmqXnSUYKRpRuCBe6-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" source="YstkmqXnSUYKRpRuCBe6-3" target="YstkmqXnSUYKRpRuCBe6-5" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YstkmqXnSUYKRpRuCBe6-3" value="Влияет ли уязвимость в одном компоненте на ресурсы в компонентах&lt;br&gt;за пределами области его сферы безопасности" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="715" width="240" height="175" as="geometry" />
+        </mxCell>
+        <mxCell id="YstkmqXnSUYKRpRuCBe6-4" value="Changed (C)&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="720" width="190" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="YstkmqXnSUYKRpRuCBe6-5" value="Unchanged (U)&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="820" width="190" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="YstkmqXnSUYKRpRuCBe6-6" value="Нет" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="960" y="730" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YstkmqXnSUYKRpRuCBe6-7" value="Да" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="960" y="850" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YstkmqXnSUYKRpRuCBe6-8" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1240" y="885" as="sourcePoint" />
+            <mxPoint x="1240" y="730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YstkmqXnSUYKRpRuCBe6-9" value="Базовый показатель&lt;br&gt;выше, если взаимодействие&lt;br&gt;с пользователем не требуется" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1245" y="780" width="190" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
