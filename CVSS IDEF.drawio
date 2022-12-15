@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-12-13T12:44:14.414Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="TZ7yn9JX74nG_3dKXY9L" version="20.6.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-12-15T23:44:44.923Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="q98frX1he7jfJk6SH6wq" version="20.6.0" type="github" pages="2">
   <diagram id="UPsKvsZW6ZB44q9W5nDS" name="Страница 1">
-    <mxGraphModel dx="1920" dy="609" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2249" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -448,7 +448,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="1UO9V7tvZ4nB_jrqx7Pz" name="Страница 2">
-    <mxGraphModel dx="1038" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1673" dy="867" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -482,7 +482,7 @@
         <mxCell id="VcP_52gR09t_h1Mb2gBg-4" value="Network (N)&lt;br&gt;Уязвимость можно эксплуатировать из сети Интернет" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="480" y="10" width="190" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="VcP_52gR09t_h1Mb2gBg-5" value="Adjacent (A)&lt;br&gt;уязвимость можно использовать в ограниченной физической или логической сети" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="VcP_52gR09t_h1Mb2gBg-5" value="Adjacent (A)&lt;br&gt;уязвимость можно эксплуатировать в ограниченной физической или логической сети" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="480" y="100" width="190" height="70" as="geometry" />
         </mxCell>
         <mxCell id="VcP_52gR09t_h1Mb2gBg-10" value="Нет" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
@@ -554,8 +554,8 @@
         <mxCell id="VcP_52gR09t_h1Mb2gBg-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="VcP_52gR09t_h1Mb2gBg-43" target="VcP_52gR09t_h1Mb2gBg-45" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VcP_52gR09t_h1Mb2gBg-43" value="Требуется ли злоумышленнику от другого пользователя выполнение какого-либо действия?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="80" y="745" width="150" height="140" as="geometry" />
+        <mxCell id="VcP_52gR09t_h1Mb2gBg-43" value="Требуется ли &lt;br&gt;злоумышленнику&lt;br&gt;выполнение&amp;nbsp;какого-либо &lt;br&gt;действия от другого &lt;br&gt;пользователя ?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="30" y="730" width="200" height="155" as="geometry" />
         </mxCell>
         <mxCell id="VcP_52gR09t_h1Mb2gBg-44" value="None (N)&lt;br&gt;Атака может быть осуществлена без какого-либо взаимодействия с пользователем" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="280" y="730" width="190" height="70" as="geometry" />
@@ -578,37 +578,37 @@
         <mxCell id="VcP_52gR09t_h1Mb2gBg-49" value="Базовый показатель&lt;br&gt;выше, если взаимодействие&lt;br&gt;с пользователем не требуется" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="515" y="790" width="190" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cgP6Gqg2oOxtNv6yNMmN-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" source="cgP6Gqg2oOxtNv6yNMmN-3" target="cgP6Gqg2oOxtNv6yNMmN-4" parent="1">
+        <mxCell id="cgP6Gqg2oOxtNv6yNMmN-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="cgP6Gqg2oOxtNv6yNMmN-3" target="cgP6Gqg2oOxtNv6yNMmN-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cgP6Gqg2oOxtNv6yNMmN-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" source="cgP6Gqg2oOxtNv6yNMmN-3" target="cgP6Gqg2oOxtNv6yNMmN-5" parent="1">
+        <mxCell id="cgP6Gqg2oOxtNv6yNMmN-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="cgP6Gqg2oOxtNv6yNMmN-3" target="cgP6Gqg2oOxtNv6yNMmN-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cgP6Gqg2oOxtNv6yNMmN-3" value="Требуются ли права администратора?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="cgP6Gqg2oOxtNv6yNMmN-3" value="Требуются ли права администратора?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1020" y="515" width="150" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="cgP6Gqg2oOxtNv6yNMmN-4" value="Low (L)&lt;br&gt;Атака может быть реализована на уровне пользовательских привилегий" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="cgP6Gqg2oOxtNv6yNMmN-4" value="Low (L)&lt;br&gt;Атака может быть реализована на уровне пользовательских привилегий" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1220" y="500" width="190" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="cgP6Gqg2oOxtNv6yNMmN-5" value="High (H)&lt;br&gt;Атака может быть реализована только на уровне привилегий администратора или системы" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="cgP6Gqg2oOxtNv6yNMmN-5" value="High (H)&lt;br&gt;Атака может быть реализована только на уровне привилегий администратора или системы" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1220" y="600" width="190" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="cgP6Gqg2oOxtNv6yNMmN-6" value="Нет" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="cgP6Gqg2oOxtNv6yNMmN-6" value="Нет" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1170" y="510" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="cgP6Gqg2oOxtNv6yNMmN-7" value="Да" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="cgP6Gqg2oOxtNv6yNMmN-7" value="Да" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1170" y="630" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="cgP6Gqg2oOxtNv6yNMmN-8" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="cgP6Gqg2oOxtNv6yNMmN-8" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1450" y="665" as="sourcePoint" />
             <mxPoint x="1450" y="410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cgP6Gqg2oOxtNv6yNMmN-9" value="Базовый показатель&lt;br&gt;выше, если авторизация&lt;br&gt;не требуется" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1479" y="505" width="160" height="60" as="geometry" />
+        <mxCell id="cgP6Gqg2oOxtNv6yNMmN-9" value="Базовый показатель&lt;br&gt;выше, если авторизация&lt;br&gt;не требуется" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1460" y="500" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cgP6Gqg2oOxtNv6yNMmN-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="cgP6Gqg2oOxtNv6yNMmN-19" target="cgP6Gqg2oOxtNv6yNMmN-20">
+        <mxCell id="cgP6Gqg2oOxtNv6yNMmN-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="cgP6Gqg2oOxtNv6yNMmN-19" target="cgP6Gqg2oOxtNv6yNMmN-20" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="990" y="500" />
@@ -616,50 +616,209 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="cgP6Gqg2oOxtNv6yNMmN-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="cgP6Gqg2oOxtNv6yNMmN-19" target="cgP6Gqg2oOxtNv6yNMmN-3">
+        <mxCell id="cgP6Gqg2oOxtNv6yNMmN-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="cgP6Gqg2oOxtNv6yNMmN-19" target="cgP6Gqg2oOxtNv6yNMmN-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cgP6Gqg2oOxtNv6yNMmN-19" value="Должен&lt;br&gt;ли атакующий быть авторизован на уязвимом компоненте до &lt;br&gt;начала атаки?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="cgP6Gqg2oOxtNv6yNMmN-19" value="Должен&lt;br&gt;ли атакующий быть авторизован на уязвимом компоненте до &lt;br&gt;начала атаки?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="810" y="430" width="150" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="cgP6Gqg2oOxtNv6yNMmN-20" value="None (N)&lt;br&gt;Атака может быть реализована без авторизации" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="cgP6Gqg2oOxtNv6yNMmN-20" value="None (N)&lt;br&gt;Атака может быть реализована без авторизации" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1220" y="400" width="190" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="YstkmqXnSUYKRpRuCBe6-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" source="YstkmqXnSUYKRpRuCBe6-3" target="YstkmqXnSUYKRpRuCBe6-4" parent="1">
+        <mxCell id="YstkmqXnSUYKRpRuCBe6-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="YstkmqXnSUYKRpRuCBe6-3" target="YstkmqXnSUYKRpRuCBe6-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YstkmqXnSUYKRpRuCBe6-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" source="YstkmqXnSUYKRpRuCBe6-3" target="YstkmqXnSUYKRpRuCBe6-5" parent="1">
+        <mxCell id="YstkmqXnSUYKRpRuCBe6-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="YstkmqXnSUYKRpRuCBe6-3" target="YstkmqXnSUYKRpRuCBe6-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YstkmqXnSUYKRpRuCBe6-3" value="Влияет ли уязвимость в одном компоненте на ресурсы в компонентах&lt;br&gt;за пределами области его сферы безопасности?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YstkmqXnSUYKRpRuCBe6-3" value="Влияет ли уязвимость в одном компоненте на ресурсы в компонентах&lt;br&gt;за пределами области его сферы безопасности?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="720" y="715" width="240" height="175" as="geometry" />
         </mxCell>
-        <mxCell id="YstkmqXnSUYKRpRuCBe6-4" value="Changed (C)&lt;br&gt;Эксплуатация уязвимости может повлиять на ресурсы за пределами сферы безопасности, управляемой органом безопасности уязвимого компонента" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1010" y="720" width="190" height="70" as="geometry" />
+        <mxCell id="YstkmqXnSUYKRpRuCBe6-4" value="Changed (C)&lt;br&gt;Эксплуатация уязвимости может повлиять на ресурсы за пределами сферы безопасности, управляемой органом безопасности уязвимого компонента" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1010" y="690" width="190" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="YstkmqXnSUYKRpRuCBe6-5" value="Unchanged (U)&lt;br&gt;&lt;div&gt;Уязвимость может повлиять&lt;/div&gt;&lt;div&gt;только на ресурсы, управляемые одним и тем же органом безопасности&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YstkmqXnSUYKRpRuCBe6-5" value="Unchanged (U)&lt;br&gt;&lt;div&gt;Уязвимость может повлиять&lt;/div&gt;&lt;div&gt;только на ресурсы, управляемые одним и тем же органом безопасности&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1010" y="820" width="190" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="YstkmqXnSUYKRpRuCBe6-6" value="Нет" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="960" y="730" width="40" height="30" as="geometry" />
+        <mxCell id="YstkmqXnSUYKRpRuCBe6-6" value="Нет" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="950" y="725" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="YstkmqXnSUYKRpRuCBe6-7" value="Да" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="YstkmqXnSUYKRpRuCBe6-7" value="Да" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="960" y="850" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="YstkmqXnSUYKRpRuCBe6-8" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="YstkmqXnSUYKRpRuCBe6-8" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1240" y="885" as="sourcePoint" />
             <mxPoint x="1240" y="730" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YstkmqXnSUYKRpRuCBe6-9" value="Базовый показатель&lt;br&gt;выше, если влияние уязвимости&lt;br&gt;выходит за пределы сферы&lt;br&gt;безопасности" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="YstkmqXnSUYKRpRuCBe6-9" value="Базовый показатель&lt;br&gt;выше, если влияние уязвимости&lt;br&gt;выходит за пределы сферы&lt;br&gt;безопасности" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1240" y="775" width="200" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="271wdwpbluVdZz_tvEB2-1" value="Нет" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="271wdwpbluVdZz_tvEB2-1" value="Нет" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="970" y="400" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="271wdwpbluVdZz_tvEB2-2" value="Да" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="271wdwpbluVdZz_tvEB2-2" value="Да" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="970" y="590" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="E1XwrZ_O2ow70j-Mtusg-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="E1XwrZ_O2ow70j-Mtusg-3" target="E1XwrZ_O2ow70j-Mtusg-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E1XwrZ_O2ow70j-Mtusg-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="E1XwrZ_O2ow70j-Mtusg-3" target="E1XwrZ_O2ow70j-Mtusg-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E1XwrZ_O2ow70j-Mtusg-3" value="Может ли злоумышленник&lt;br&gt;получить всю информацию&lt;br&gt;из пораженного компонента;&lt;br&gt;или раскрытая информация&lt;br&gt;является критически&lt;br&gt;важной?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="980" width="240" height="205" as="geometry" />
+        </mxCell>
+        <mxCell id="E1XwrZ_O2ow70j-Mtusg-4" value="High(H)&lt;br&gt;Вся информация раскрывается злоумышленнику; или раскрывается некоторая критичная информация" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="1000" width="190" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="E1XwrZ_O2ow70j-Mtusg-5" value="Low (L)&lt;br&gt;Некоторая информация может быть получена; или информация не является критичной" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="1100" width="190" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="E1XwrZ_O2ow70j-Mtusg-6" value="Нет" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="480" y="1130" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="E1XwrZ_O2ow70j-Mtusg-7" value="Да" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="480" y="1010" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="E1XwrZ_O2ow70j-Mtusg-8" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="760" y="1265" as="sourcePoint" />
+            <mxPoint x="760" y="1010" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E1XwrZ_O2ow70j-Mtusg-9" value="Базовый показатель&lt;br&gt;прямо пропорционален&lt;br&gt;степени раскрываемости&lt;br&gt;информации" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="770" y="1100" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="_9gqNrt9rRYHEfE6uMC5-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="E1XwrZ_O2ow70j-Mtusg-12" target="E1XwrZ_O2ow70j-Mtusg-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_9gqNrt9rRYHEfE6uMC5-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="E1XwrZ_O2ow70j-Mtusg-12" target="E1XwrZ_O2ow70j-Mtusg-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="210" y="1195" />
+              <mxPoint x="210" y="1235" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E1XwrZ_O2ow70j-Mtusg-12" value="Оказывается ли&lt;br&gt;какое-либо воздействие на конфиденциальность?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="1120" width="180" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="E1XwrZ_O2ow70j-Mtusg-13" value="None (N)&lt;br&gt;Информация не может быть раскрыта" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="1200" width="190" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="E1XwrZ_O2ow70j-Mtusg-14" value="Нет" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="1250" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="E1XwrZ_O2ow70j-Mtusg-15" value="Да" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="170" y="1110" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_9gqNrt9rRYHEfE6uMC5-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="_9gqNrt9rRYHEfE6uMC5-5" target="_9gqNrt9rRYHEfE6uMC5-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_9gqNrt9rRYHEfE6uMC5-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="_9gqNrt9rRYHEfE6uMC5-5" target="_9gqNrt9rRYHEfE6uMC5-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_9gqNrt9rRYHEfE6uMC5-5" value="Может ли злоумышленник&lt;br&gt;модифицировать всю&lt;br&gt;информацию из &lt;br&gt;пораженного компонента;&lt;br&gt;или является ли модифицированная информация критически&lt;br&gt;важной?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1210" y="970" width="260" height="215" as="geometry" />
+        </mxCell>
+        <mxCell id="_9gqNrt9rRYHEfE6uMC5-6" value="High(H)&lt;br&gt;Злоумышленник может модифицировать любую некритичную или какую-то критичную информацию" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1540" y="1000" width="190" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="_9gqNrt9rRYHEfE6uMC5-7" value="Low (L)&lt;br&gt;Некоторая информация может быть модифицирована; или информация не является критичной" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1540" y="1100" width="190" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="_9gqNrt9rRYHEfE6uMC5-8" value="Нет" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1490" y="1130" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_9gqNrt9rRYHEfE6uMC5-9" value="Да" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1490" y="1010" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_9gqNrt9rRYHEfE6uMC5-10" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1770" y="1265" as="sourcePoint" />
+            <mxPoint x="1770" y="1010" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_9gqNrt9rRYHEfE6uMC5-11" value="Базовый показатель&lt;br&gt;прямо пропорционален&lt;br&gt;степени модифицируемости&lt;br&gt;информации" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1780" y="1099" width="180" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="_9gqNrt9rRYHEfE6uMC5-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="_9gqNrt9rRYHEfE6uMC5-14" target="_9gqNrt9rRYHEfE6uMC5-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_9gqNrt9rRYHEfE6uMC5-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="_9gqNrt9rRYHEfE6uMC5-14" target="_9gqNrt9rRYHEfE6uMC5-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1180" y="1195" />
+              <mxPoint x="1180" y="1235" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_9gqNrt9rRYHEfE6uMC5-14" value="Оказывается ли&lt;br&gt;какое-либо воздействие на целостность?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="970" y="1120" width="180" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="_9gqNrt9rRYHEfE6uMC5-15" value="None (N)&lt;br&gt;Информация не может быть модифицирована" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1540" y="1200" width="190" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="_9gqNrt9rRYHEfE6uMC5-16" value="Нет" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="1240" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_9gqNrt9rRYHEfE6uMC5-17" value="Да" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="1110" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_9gqNrt9rRYHEfE6uMC5-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="_9gqNrt9rRYHEfE6uMC5-37" target="_9gqNrt9rRYHEfE6uMC5-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_9gqNrt9rRYHEfE6uMC5-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="_9gqNrt9rRYHEfE6uMC5-37" target="_9gqNrt9rRYHEfE6uMC5-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_9gqNrt9rRYHEfE6uMC5-37" value="Может ли злоумышленник&lt;br&gt;ограничить доступ к пораженному компоненту;&lt;br&gt;или является ли ресурс&lt;br&gt;критичным?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="245" y="1400" width="260" height="215" as="geometry" />
+        </mxCell>
+        <mxCell id="_9gqNrt9rRYHEfE6uMC5-38" value="High(H)&lt;br&gt;Затронутый компонент полностью недоступен; или ресурс является критичным и страдает от снижения производительности или перебоев в работе" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="575" y="1400" width="185" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="_9gqNrt9rRYHEfE6uMC5-39" value="Low (L)&lt;br&gt;Затронутый ресурс не является критичным, но страдает от снижения производительности или прерывания работы" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="575" y="1530" width="190" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="_9gqNrt9rRYHEfE6uMC5-40" value="Нет" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="525" y="1560" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_9gqNrt9rRYHEfE6uMC5-41" value="Да" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="525" y="1440" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_9gqNrt9rRYHEfE6uMC5-42" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="805" y="1695" as="sourcePoint" />
+            <mxPoint x="805" y="1440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_9gqNrt9rRYHEfE6uMC5-43" value="Базовый показатель&lt;br&gt;прямо пропорционален&lt;br&gt;степени нарушения&lt;br&gt;доступности" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="830" y="1529" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="_9gqNrt9rRYHEfE6uMC5-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="_9gqNrt9rRYHEfE6uMC5-46" target="_9gqNrt9rRYHEfE6uMC5-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_9gqNrt9rRYHEfE6uMC5-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="_9gqNrt9rRYHEfE6uMC5-46" target="_9gqNrt9rRYHEfE6uMC5-47">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="215" y="1625" />
+              <mxPoint x="215" y="1665" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_9gqNrt9rRYHEfE6uMC5-46" value="Оказывается ли&lt;br&gt;какое-либо воздействие на доступность?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="5" y="1550" width="180" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="_9gqNrt9rRYHEfE6uMC5-47" value="None (N)&lt;br&gt;Уязвимость не затрагивает доступность" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="575" y="1630" width="190" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="_9gqNrt9rRYHEfE6uMC5-48" value="Нет" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="165" y="1670" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_9gqNrt9rRYHEfE6uMC5-49" value="Да" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="185" y="1540" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
